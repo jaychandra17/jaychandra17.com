@@ -1,0 +1,37 @@
+body{
+	margin: 0;
+	background: rgba(122, 113, 115,0.5);
+	font-family:cursive,sans-serif;
+	text-align: center;
+	text-transform: capitalize;
+}
+#bgimage{
+	width:50%;
+	height: auto;
+}
+h2{
+	text-decoration: underline;
+
+}
+p{
+	font-size: 20px;
+}
+
+a{
+	border:1px solid rgba(0,0,0,0);
+	text-decoration: none;
+	color: red;
+
+}
+body img{
+	width:25px;
+	height: auto;
+}
+#mail{
+	text-transform: none;
+}
+a:hover{
+	color: black;
+	background: rgba(99, 191, 181);
+	transition: 0.8s ease;
+}
